@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<!-- Copyright 2013 the V8 project authors. Scroll to the end for full license -->
+<html lang="en">
+	<head>
+		<meta http-equiv="X-UA-Compatible" value="IE=edge"/>
+		<meta charset="utf-8"/>
+		<title>Octane JavaScript Benchmark</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="Content-Script-Type" content="text/javascript">
+		<style>
+body {
+	padding-top: 60px;
+	/* 60px to make the container go all the way to the bottom of the topbar */
+}
+		</style>
+		<script type="text/javascript">
+function BenchmarkPrint(str){
+	document.getElementById("result").innerHTML += str + "<br />";
+}
+		</script>
+	</head>
+	<body id="result">
+	</body>
+	<script type="text/javascript" src="all.js"></script>
+</html>

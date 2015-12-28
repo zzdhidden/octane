@@ -74,14 +74,20 @@ Richards: 560,DeltaBlue: 506,Crypto: 670,RayTrace: 1383,----,Score (version 9): 
 ####[Small JavaScriptCore (JSC) variant for Android](https://github.com/eddieh/android-jsc)
 Richards: 104,DeltaBlue: 90.8,Crypto: 71.2,RayTrace: 242,----,Score (version 9): 113
 
-###Xiaomi MI 2 Android 5.0.2 API 21
+####org.webkit:android-jsc:r174650
 
-####[Small JavaScriptCore (JSC) variant for Android](https://github.com/eddieh/android-jsc)
-Richards: 112,DeltaBlue: 74.2,Crypto: 89.4,RayTrace: 283,----,Score (version 9): 120
+Richards: 222,DeltaBlue: 177,Crypto: 300,RayTrace: 470,----,Score (version 9): 273
 
 ####[V8Android](https://github.com/crossle/V8Android)
 Richards: 1769,DeltaBlue: 1949,Crypto: 2212,RayTrace: 1873,----,Score (version 9): 1944
 
+####[v8 4.5.103](https://github.com/NativeScript/android-runtime)
+Richards: 2708,DeltaBlue: 4379,Crypto: 2662,RayTrace: 4058,----,Score (version 9): 3364
+
+###Xiaomi MI 2 Android 5.0.2 API 21
+
+####[Small JavaScriptCore (JSC) variant for Android](https://github.com/eddieh/android-jsc)
+Richards: 112,DeltaBlue: 74.2,Crypto: 89.4,RayTrace: 283,----,Score (version 9): 120
 
 ####Duktype 1.2.1
 
@@ -98,6 +104,8 @@ Richards: 87.0,DeltaBlue: 67.4,Crypto: 125,RayTrace: 222,----,Score (version 9):
 ####[V8Android](https://github.com/crossle/V8Android)
 Richards: 3287,DeltaBlue: 2069,Crypto: 4381,RayTrace: 2021,----,Score (version 9): 2786
 
+####[v8 4.5.103](https://github.com/NativeScript/android-runtime)
+Richards: 4706,DeltaBlue: 5779,Crypto: 5028,RayTrace: 5788,----,Score (version 9): 5304
 
 
 

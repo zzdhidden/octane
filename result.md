@@ -84,6 +84,10 @@ Richards: 1769,DeltaBlue: 1949,Crypto: 2212,RayTrace: 1873,----,Score (version 9
 ####[v8 4.5.103](https://github.com/NativeScript/android-runtime)
 Richards: 2708,DeltaBlue: 4379,Crypto: 2662,RayTrace: 4058,----,Score (version 9): 3364
 
+####web browser
+Richards: 740,DeltaBlue: 936,Crypto: 1269,RayTrace: 820,----,Score (version 9): 921
+
+
 ###Xiaomi MI 2 Android 5.0.2 API 21
 
 ####[Small JavaScriptCore (JSC) variant for Android](https://github.com/eddieh/android-jsc)
@@ -107,5 +111,7 @@ Richards: 3287,DeltaBlue: 2069,Crypto: 4381,RayTrace: 2021,----,Score (version 9
 ####[v8 4.5.103](https://github.com/NativeScript/android-runtime)
 Richards: 4706,DeltaBlue: 5779,Crypto: 5028,RayTrace: 5788,----,Score (version 9): 5304
 
+####web browser
+Richards: 3376,DeltaBlue: 5144,Crypto: 5120,RayTrace: 4070,----,Score (version 9): 4481
 
 
